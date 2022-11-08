@@ -22,6 +22,7 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" title="unity" alt="unity" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="charp" alt="charp" width="40" height="40"/>&nbsp; 
   </div>
-  ---
+  
 
 ### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justeryt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
