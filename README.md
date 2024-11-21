@@ -1,9 +1,6 @@
 <h1 align="center">👋 Привет! Я Сергей 👋</h1>
 <h3 align="center">✨ Lazy but Smart Developer из России ⚪🔵🔴 ✨</h3>
 
-<div id="header" align="center">
-  <img src="https://storage.googleapis.com/support-forums-api/avatar/profile-178999195-16179852945927622908.gif" width="200" alt="Prog"/>
-  
 <div id="center" align="center">
   <img src="https://komarev.com/ghpvc/?username=justeryt&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="justeryt" />
 </div>
