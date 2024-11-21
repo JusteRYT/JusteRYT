@@ -2,7 +2,11 @@
 <h3 align="center">✨ Lazy but Smart Developer из России ⚪🔵🔴 ✨</h3>
 
 <div id="center" align="center">
-  <img src="https://komarev.com/ghpvc/?username=justeryt&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="justeryt" width="400" height="15" />
+  <img 
+    src="https://komarev.com/ghpvc/?username=justeryt&label=Просмотры%20профиля&color=0e75b6&style=flat" 
+    alt="justeryt" 
+    style="width: 400px; height: auto; font-size: 14px;" 
+  />
 </div>
 
 <hr>
