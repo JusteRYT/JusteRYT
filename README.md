@@ -2,7 +2,7 @@
 <h3 align="center">✨ Lazy but Smart Developer из России ⚪🔵🔴 ✨</h3>
 
 <div id="header" align="center">
-  <img src="https://media.tenor.com/X8854xxuQ_EAAAAC/destroy-code-mad.gif" width="200" alt="Prog"/>
+  <img src="https://storage.googleapis.com/support-forums-api/avatar/profile-178999195-16179852945927622908.gif" width="200" alt="Prog"/>
 </div>
 <div id="center" align="center">
   <img src="https://komarev.com/ghpvc/?username=justeryt&label=Просмотры%20профиля&color=0e75b6&style=flat" alt="justeryt" />
