@@ -11,7 +11,8 @@
 <hr>
 
 <div align="center">
-  <img src="https://otvet.imgsmail.ru/download/u_d0b5641c32237bbfa425fbf35dc18f81_800.gif" width="600" height="300" alt="Gif"/>
+  <img src="![image](https://github.com/user-attachments/assets/33ac8791-12e8-4338-96ce-3c77fea62765)
+" width="600" height="300" alt="Gif"/>
 </div>
 
 ---
