@@ -11,7 +11,7 @@
 <hr>
 
 <div align="center">
-  <img src="https://otvet.imgsmail.ru/download/u_d0b5641c32237bbfa425fbf35dc18f81_800.gif" width="600" height="300" alt="Gif"/>
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/1822267259728066458/A315B26714ED4AD0386ED8A58D3BFB5D1038F8C9/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" width="600" height="300" alt="Gif"/>
 </div>
 
 ---
