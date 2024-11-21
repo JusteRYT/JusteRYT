@@ -5,7 +5,7 @@
   <img 
     src="https://komarev.com/ghpvc/?username=justeryt&label=Просмотры%20профиля&color=0e75b6&style=flat" 
     alt="justeryt" 
-    style="width: 400px; height: auto; font-size: 14px;" 
+    style="width: 400px; height: auto; font-size: 1px;" 
   />
 </div>
 
