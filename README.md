@@ -3,7 +3,7 @@
 
 <!-- Профильный счетчик просмотров -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=justeryt&style=flat-square&base=547&color=blueviolet&label=Просмотры" alt="Просмотры профиля" height="100"/>
+  <img src="https://komarev.com/ghpvc/?username=justeryt&style=flat-square&base=547&color=blueviolet&label=Просмотры" alt="Просмотры профиля" height="100" wight="auto"/>
 </p>
 
 <hr>
