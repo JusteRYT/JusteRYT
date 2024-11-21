@@ -1,7 +1,10 @@
 <h1 align="center">👋 Привет! Я Сергей 👋</h1>
 <h3 align="center">✨ Lazy but Smart Developer из России ⚪🔵🔴 ✨</h3>
 
-![](https://komarev.com/ghpvc/?username=justeryt&style=flat-square&base=547&color=blueviolet)
+<!-- Профильный счетчик просмотров -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=justeryt&style=flat-square&base=547&color=blueviolet" alt="Просмотры профиля"/>
+</p>
 
 <hr>
 
